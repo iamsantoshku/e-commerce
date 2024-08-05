@@ -1,0 +1,158 @@
+.home-nav{
+    height: 18vw;
+    width: 19vw;
+    /* background-color: aliceblue; */
+    background-color: white;
+    margin-left: 6vw;
+    display: flex;
+}
+.line4{
+    height: 17vw;
+    width: 0.1vw;
+    background-color: rgb(223, 216, 216);
+    margin-left: 5vw;
+}
+.home-ul{
+   
+    list-style: none;
+    margin: 1vw;
+}
+.home-ul li{
+    
+    /* margin: 6px; */
+    display: inline-block;
+    padding: 5px;
+}
+.home-ul li a{
+    color: black;
+    text-decoration: none;
+    /* display: block; */
+}
+.flash{
+    margin-left: 10vw;
+    margin-top: 6vw;
+}
+.det{
+    background-color:  #DB4444;
+    height: 2.4vw;
+    width: 1vw;
+    border-radius: 4px;
+    margin-left: -1vw;
+    margin-top: .2vw;
+}
+.det h1{
+    margin-left: 2vw;
+    color: #DB4444;
+    font-size: 1.5vw;
+}
+.flashsell h1{
+    font-size: 3vw;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+.proddet{
+    display: flex;
+    margin-left: 3vw;
+    justify-content: space-around;
+    height: 16vw;
+
+}
+.prod1 {
+    display: flex;
+}
+.prod1 img{
+    width: 9vw;
+    height: 8vw;
+    /* height: vw;
+    width: 7vw; */
+
+    /* background-color: rgb(218, 196, 165); */
+    /* height: 4vw;
+    
+    width: 7vw; */
+}
+.prod1 i{
+    margin-top: vw;
+    margin: 5px;
+}
+.flashsell h1{
+    margin-left: -1vw;
+}
+.butt1 button{
+    color: white;
+    background-color: #DB4444;
+    
+    height: 2.5vw;
+    width: 9vw;
+    border-radius: 8px;
+    margin-top: 4vw;
+    margin-left: 45vw;
+    border: none;
+    
+}
+.icon2 i{
+    margin-top: 14vw;
+    font-size: 1.4vw;
+    /* margin-left: -2vw; */
+    /* margin: 7px; */
+}
+.icin{
+    /* display: grid; */
+}
+.prod1 h3, p{
+    margin-top: 10vw;
+    margin-left: -8vw;
+
+}
+.prod1 p{
+    margin-top: 12vw;
+    color: #DB4444;
+}
+.line2{
+    margin-top: 3vw;
+    background-color: rgba(196, 193, 190, 0.977);
+    width: 87vw;
+    margin-left: 6vw;
+    height: 0.1vw;
+}
+.box2{
+    margin-left: 6vw;
+    display: flex;
+    justify-content: space-around;
+}
+.boxite{
+    height: 10vw;
+    width: 10vw;
+    border:1px solid rgb(168, 158, 158);
+    border-radius: 5px;
+    /* background-color: antiquewhite; */
+}
+.boxite i{
+    font-size: 4vw;
+    margin-top: 2vw;
+    margin-left: 3vw;
+}
+.mob h2{
+    margin-left: 2vw;
+}
+.prd{
+    height: 18vw;
+    margin-top: 3vw;
+    margin-left: 7.3vw;
+    display: flex;
+    justify-content: space-around; 
+    position: relative;
+    float: left;
+}
+.prodimg img{
+    /* margin-left: -8vw; */
+     /* display: flex;  */
+    /* justify-content: space-around;  */
+    height: 10vw;
+    width: 11vw;
+    /* margin-top: 1vw; */
+    margin: -0.1vw;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+
+}

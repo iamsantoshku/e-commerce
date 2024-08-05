@@ -1,0 +1,226 @@
+.head{
+    /* position: fixed; */
+    width: 61vw;
+    height: 40px;
+    padding: 12px 136px 12px 445px; 
+    gap: 0px;
+    opacity: 0px;   
+    background-color: black; 
+}
+ h5{
+    color: white;
+}
+h3{
+    color: black;
+}
+.head ul{
+    display: flex;
+    align-items: center;
+    text-align: center;
+    justify-content: space-around;
+    margin-top: -6px;
+}
+#sele{
+    /* background-color: black; */
+}
+#sele select{
+    /* float: right; */
+    /* margin-left: 30vw; */
+    /* background-color: black; */
+    color: white;
+    text-decoration: none;
+
+}
+#sele option{
+    /* color: white; */
+}
+.shop{
+    margin-right: 10px;
+}
+.second{
+    width: Hug (1,170px)px;
+height: Hug (38px)px;
+top: 88px;
+left: 135px;
+gap: 130px;
+opacity: 0px;
+/* background-color: aqua; */
+
+}
+.second h3{
+    margin-left: 8vw;
+
+}
+.nav-ul li{
+    display: inline-block;
+    padding: 10px;
+}
+.nav-ul li a{
+    /* color: #fff; */
+    color: black;
+    padding: 13px;
+    text-decoration: none;
+    /* background-color: #61dafb; */
+  
+}
+.nav-ul{
+    /* position: relative; */
+    /* top: 0; */
+    /* padding: 5px;
+    margin: 0; */
+    /* color: black; */
+    /* background-color: skyblue; */
+    margin-left: 30vw;
+    margin-top: -50px;
+}
+.senav{
+    display: flex;
+    justify-content: space-around;
+    margin-top: 30px;
+}
+.text2{
+    /* background-color: antiquewhite; */
+    margin-top: 20px;
+}
+.search i{
+    /* background-color: rgb(209, 206, 201); */
+    margin-left: -2vw;
+
+
+}
+input{
+    width: 15vw;
+    height: 2vw;
+    border: 1px rgb(130, 124, 124);
+    background-color: rgb(237, 231, 224);
+    margin-left: 7vw;
+}
+.font{
+    margin-top: 8px;
+    /* margin: 7px; */
+    display: flex;
+    justify-content: space-between;
+    padding: 10px;
+}
+.font4{
+    display: flex;
+    justify-content: space-between;
+
+}
+.font i{
+    font-size: 25px;
+    margin: 10px;
+    /* margin-right: 2vw; */
+}
+#now{
+    margin-left: -10vw;
+    color: azure;
+    list-style: none;
+    /* background-color: antiquewhite; */
+    border-radius: 5px;
+    text-decoration: none;
+}
+#now li{
+    color: white;
+}
+
+.line{
+    background-color: rgba(196, 193, 190, 0.977);
+    width: 100vw;
+    height: 0.1vw;
+}
+@media screen and (max-width:600px) {
+    .head{
+        width: 1vw;
+        height: 2vw;
+        /* padding: 12px 136px 12px 445px; 
+        gap: 0px;
+        opacity: 0px;    */
+        background-color: rgb(167, 67, 67); 
+    }
+    h5{
+        color: white;
+    }
+    h3{
+        color: black;
+    }
+    .head ul{
+        display: flex;
+        align-items: center;
+        text-align: center;
+        justify-content: space-around;
+        margin-top: -3px;
+    }
+    .second{
+    width: 1000px;
+    height: 8vw;
+    top: 88px;
+    left: 135px;
+    gap: 130px;
+    opacity: 0px;
+    background-color: aqua;
+    
+    }
+    .nav-ul li{
+        display: inline-block;
+        padding: 5px;
+    }
+    .nav-ul li a{
+        /* color: #fff; */
+        color: black;
+        padding: 4px;
+        text-decoration: none;
+        /* background-color: #61dafb; */
+      
+    }
+    .nav-ul{
+        /* position: relative; */
+        /* top: 0; */
+        /* padding: 5px;
+        margin: 0; */
+        /* color: black; */
+        /* background-color: skyblue; */
+        margin-left: 10vw;
+        margin-top: -10px;
+    }
+    .senav{
+        display: flex;
+        justify-content: space-around;
+        margin-top: 5px;
+    }
+    .font i{
+        font-size: 15px;
+        margin: 5px;
+        /* margin-right: 2vw; */
+    }
+    .search i{
+        /* background-color: rgb(209, 206, 201); */
+        margin-left: 34vw;
+        font-size: 15px;
+        /* padding-top: -4vw; */
+        /* margin-bottom: 5vw; */
+    
+    
+    }
+    input{
+        width: 25vw;
+        height: 5vw;
+        border: 1px rgb(130, 124, 124);
+        background-color: rgb(237, 231, 224);
+        margin-left: 7vw;
+    }
+    .font{
+        margin-top: 8px;
+        /* margin: 7px; */
+        display: flex;
+        justify-content: space-between;
+        padding: 10px;
+    }
+    .font4{
+        display: flex;
+        justify-content: space-between;
+    
+    }
+
+    
+}

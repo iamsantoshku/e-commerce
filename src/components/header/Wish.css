@@ -1,0 +1,150 @@
+ .ited{
+    margin-left: 8vw;
+    display: flex;
+    justify-content: space-between;
+    margin-top: 2vw;
+}
+.ited button{
+    height: 2.5vw;
+    width: 10vw;
+    
+    margin-right: 6vw;
+    margin-top: 2vw;
+    border-radius: 4px;
+    border: .5px solid rgb(215, 209, 209);
+}
+/* .prod1{
+    margin-top: 2vw;
+}
+.but3{
+    margin-top: 10vw;
+    margin-left: -5vw;
+}
+.but3 button{
+     margin-left: -4vw;
+    width: 10vw;
+    height: 1.9vw; 
+    color: white;
+    border-radius: 3px;
+   
+    cursor: pointer;
+    background-color: black;
+    
+}
+
+.ite{
+    display: flex;
+    margin-left: 3vw;
+    justify-content: space-around;
+    height: 16vw;
+    margin-top: 3vw;
+
+}
+.ite1 {
+    display: flex;
+} */
+/* .ite1 img{
+    width: 9vw;
+    
+    height: 8vw; */
+    /* height: vw;
+    width: 7vw; */
+
+    /* background-color: rgb(218, 196, 165); */
+    /* height: 4vw;
+    
+    width: 7vw; */
+/* } */
+/* .ite1 h3, p{
+    margin-top: 12vw;
+    margin-left: -8vw;
+
+}
+.ite1 p{
+    margin-top: 14vw;
+    color: #DB4444;
+}
+.icin1 i{
+   
+    margin-left: 7vw;
+} */
+/* .back{
+    height: 2.3vw;
+    width: 1vw;
+    background-color: #DB4444;
+    border-radius: 4px;
+    margin-left: 8vw;
+    margin-top: 5vw;
+    
+}
+.back h2{
+    color: rgb(22, 21, 21);
+    margin-left: 2vw;
+    width: 16vw;
+}  */
+.card-img{
+    height: 18vw;
+    margin-top: 3vw;
+    margin-left: 7.3vw;
+    display: flex;
+    justify-content: space-around; 
+    position: relative;
+    float: left;
+}
+.card-img1 img{
+    /* margin-left: -8vw; */
+     /* display: flex;  */
+    /* justify-content: space-around;  */
+    height: 10vw;
+    width: 11vw;
+    /* margin-top: 1vw; */
+    margin: -0.1vw;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+
+}
+.itedet h6{
+    color: black;
+
+}
+.itedet p{
+    margin-top: -1vw;
+    margin-left: 0vw;
+}
+.ico-icon {
+    margin-top: -7vw;
+}
+.ico-icon i{
+    font-size: 1.5vw;
+    /* background-color: red; */
+    color: #eddc45;
+}
+/* .card-img1 button{
+    margin-bottom: -20vw;
+    margin-left: 3vw;
+} */
+.but5 button{
+    width: 11vw;
+    margin-left: 0vw;
+    height: 2vw;
+    background-color: black;
+    color: white;
+    border-radius: 4px;
+    margin-top: -5vw;
+    cursor: pointer;
+}
+ .but5 i{
+    
+    background-color: aliceblue;
+    margin-left: 2vw;
+}
+.card-img1 i{
+    margin-top: 6vw;
+    color: #DB4444;
+}
+.ic i{
+    margin-left: 8vw;
+} 
+
+

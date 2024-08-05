@@ -1,0 +1,20 @@
+.card-img{
+    height: 18vw;
+    margin-top: 3vw;
+    margin-left: 5vw;
+    display: flex; 
+    justify-content: space-around;
+
+}
+.card-img1 img{
+    /* margin-left: -8vw; */
+    display: flex; 
+    justify-content: space-around; 
+    height: 10vw;
+    width: 11vw;
+    /* margin-top: 1vw; */
+    margin: -0.1vw;
+    border: none;
+    border-radius: 4px;
+
+}
